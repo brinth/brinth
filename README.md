@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AVR, PIC and ARM Firmware development**
 
-- 📫 How to reach me **brinthkhanna@gmail.com**
+- 📫 How to reach me **brinthkhanna@yahoo.com**
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/brinth-khanna-4a2b81102](https://in.linkedin.com/in/brinth-khanna-4a2b81102)
 
