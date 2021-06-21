@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brinth Khanna</h1>
-<h3 align="center">A passionate Embedded Firmware Developer from India</h3>
+<h3 align="center">Mechatronics Engineer, Embedded Firmware Developer, Automation Programmer, What next ? ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brinth&label=Profile%20views&color=0e75b6&style=flat" alt="brinth" /> </p>
 
