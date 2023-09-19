@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinth" alt="brinth" /></a> </p>
 
-- 🔭 I’m currently working on **TFT Stream Client Project**
+- 🔭 I’m currently working on **Auto Irrigation**
 
-- 🌱 I’m currently learning **FreeRTOS, buildroot**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **AVR, PIC and ARM Firmware development**
+- 💬 Ask me about **AVR, PIC and ARM Baremetal, FreeRTOS or Linux development**
 
-- 📫 How to reach me **brinthkhanna@yahoo.com**
+- 📫 How to reach me **brinthkhanna@gmail.com**
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/brinth-khanna-4a2b81102](https://in.linkedin.com/in/brinth-khanna-4a2b81102)
 
