@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brinth Khanna</h1>
+<h1 align="center">Brinth Khanna</h1>
 <h3 align="center">Mechatronics Engineer specialized in Embedded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brinth&label=Profile%20views&color=0e75b6&style=flat" alt="brinth" /> </p>
