@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinth" alt="brinth" /></a> </p>
 
-- 🔭 I’m currently working on **Auto Irrigation**
+- 🔭 I’m currently working on **Wirrigator**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Github Actions**
 
 - 💬 Ask me about **AVR, PIC and ARM Baremetal, FreeRTOS or Linux development**
 
