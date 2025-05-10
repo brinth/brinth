@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Wirrigator**
 
-- 🌱 I’m currently learning **Github Actions**
+- 🌱 I’m currently learning **MainFrame Technology**
 
 - 💬 Ask me about **AVR, PIC and ARM Baremetal, FreeRTOS or Linux development**
 
-- 📫 How to reach me **brinthkhanna@gmail.com**
+- 📫 How to reach me **brinthkhanna@yahoo.com**
 
 - 📄 Know about my experiences [https://in.linkedin.com/in/brinth-khanna-4a2b81102](https://in.linkedin.com/in/brinth-khanna-4a2b81102)
 
